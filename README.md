@@ -36,3 +36,7 @@ PowerOps helps facility teams detect faults faster, reduce downtime, and build a
   "status": "warning",
   "event_ts": "2026-03-17T20:15:00Z"
 }
+```markdown
+## Stream Lineage Screenshot
+
+![PowerOps Stream Lineage](powerops-stream-lineage.png)
